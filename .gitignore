@@ -1,0 +1,6 @@
+client/node_modules/
+
+api/node_modules/
+api/public/images/
+api/config.env
+api/request.rest
